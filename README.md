@@ -2,13 +2,20 @@
 
 > **Read-only archive of released versions of muhammadbaiquni/passport.** Not for installation: use [Packagist](https://packagist.org/packages/muhammadbaiquni/passport) or the [upstream repository](https://github.com/muhammadbaiquni/passport).
 
-**0** versions archived · Latest: [`0.6.0`](https://github.com/flarchive/muhammadbaiquni-passport/tree/archive/v0.6.0) · License: `MIT` · Flarum: `^0.1.0-beta.16`
+**8** versions archived · Latest: [`0.6.0`](https://github.com/flarchive/muhammadbaiquni-passport/tree/archive/v0.6.0) · License: `MIT` · Flarum: `^0.1.0-beta.16`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2021-04-22 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/muhammadbaiquni-passport/tree/archive/v0.1.0) |
+| `0.1.0-beta.1` | 2017-03-17 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/muhammadbaiquni-passport/tree/archive/v0.1.0-beta.1) |
+| `0.2.0-beta` | 2018-11-05 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/muhammadbaiquni-passport/tree/archive/v0.2.0-beta) |
+| `0.3.0` | 2020-03-23 | `>=0.1.0-beta.12 <0.1.0-beta.14` | [Browse](https://github.com/flarchive/muhammadbaiquni-passport/tree/archive/v0.3.0) |
+| `0.4.0` | 2020-11-07 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/muhammadbaiquni-passport/tree/archive/v0.4.0) |
+| `0.5.0` | 2020-12-16 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/muhammadbaiquni-passport/tree/archive/v0.5.0) |
+| `0.5.1` | 2021-02-24 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/muhammadbaiquni-passport/tree/archive/v0.5.1) |
+| `0.6.0` | 2021-04-05 | `^0.1.0-beta.16` | [Browse](https://github.com/flarchive/muhammadbaiquni-passport/tree/archive/v0.6.0) |
 
 Catalog entry: [packages/muhammadbaiquni-passport.json](https://github.com/flarchive/archive-index/blob/main/packages/muhammadbaiquni-passport.json)
 
